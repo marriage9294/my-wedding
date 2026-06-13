@@ -80,6 +80,11 @@ a {
   font-weight: 400;
 }
 
+.title-korean {
+  font-family: 'MaruBuri', serif;
+  font-weight: 400;
+}
+
 /* ── Curtain / Veil ── */
 .curtain {
   position: fixed;
