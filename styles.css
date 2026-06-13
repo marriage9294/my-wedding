@@ -148,11 +148,12 @@ a {
 }
 
 .curtain__names {
-  font-family: 'Great Vibes', cursive;
-  font-size: 2rem;
+  font-family: 'MaruBuri', serif;
+  font-size: 2.3rem;
   color: var(--rose);
   margin-bottom: 0.5rem;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.02em;
+  font-weight: 400;
 }
 
 .curtain__msg {
